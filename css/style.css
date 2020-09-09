@@ -26,10 +26,11 @@ body {
   .personal-info .picture {
     align-self: flex;
     filter: grayscale(100%);
-    width: 220px;
+    width: 240px;
     height: 240px;
     border-radius: 100%;
     margin-bottom: 24px;
+    float: right;
   }
   .personal-info .subtitle {
     font-size: 24px;
@@ -148,8 +149,3 @@ body {
       grid-column-gap: 24px;
     }
   }
-<<<<<<< HEAD
-  
-=======
-  
->>>>>>> origin/master
